@@ -1,1 +1,4 @@
 tests.py
+build/
+dist/
+pyPelias.egg-info
