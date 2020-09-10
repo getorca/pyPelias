@@ -1,3 +1,5 @@
+Update: The latest builds of pelias are working for North America, this library isn't needed. 
+
 # PyPelias - Geocoding and reverse geocoding with Pelias and Python
 
 ## Project Description
